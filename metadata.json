@@ -1,0 +1,7 @@
+{
+  "name": "Ministry of Lands Physical Planning Portal",
+  "description": "A professional GIS-powered platform for automated building setback analysis, compliance monitoring, and official reporting using Nigerian planning standards and Gemini AI advisory.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
